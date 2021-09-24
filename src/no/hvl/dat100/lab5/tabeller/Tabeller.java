@@ -17,7 +17,6 @@ public class Tabeller {
 			System.out.print(element + " ");
 		}
 		//throw new UnsupportedOperationException("skrivUt ikke implementert");
-
 	}
 
 	// b)
